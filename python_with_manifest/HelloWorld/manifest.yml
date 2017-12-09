@@ -1,0 +1,6 @@
+---
+applications:
+- name: python
+  memory: 64M
+  disk: 128M
+  instances: 1
